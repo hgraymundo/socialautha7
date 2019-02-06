@@ -1,0 +1,51 @@
+/*  */
+.card-signin {
+  border: 1pt solid #ecf0f1;
+  border-radius: 0.5em;
+  box-shadow: 0 0.5em 1em 0 rgba(0, 0, 0, 0.1);
+}
+
+.card-signin .card-title {
+  margin-bottom: 2em;
+  font-weight: 300;
+  font-size: 200%;
+  font-weight: 300;
+}
+
+.card-signin .card-body {
+  padding: 2em;
+}
+
+.form-signin {
+  width: 100%;
+}
+
+.form-signin .btn {
+  font-size: 80%;
+  border-radius: 0.5em;
+  letter-spacing: .1em;
+  font-weight: bold;
+  padding: 1em;
+  transition: all 0.2s;
+  font-size: 100%;
+  font-weight: 200;
+}
+
+.form-label-group {
+  position: relative;
+  margin-bottom: 1em;
+}
+
+.form-label-group input {
+  height: auto;
+  border-radius: 0.5em;
+  font-size: 100%;
+  font-weight: 200;
+}
+
+.btn-facebook {
+  color: white;
+  font-size: 100%;
+  font-weight: 200 !important;
+  background-color: #3b5998;
+}

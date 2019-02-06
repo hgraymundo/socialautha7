@@ -1,0 +1,289 @@
+[{
+  "month": "Ene",
+  "sales": [
+    {
+      "product": "Ford",
+      "units": 750
+    },
+    {
+      "product": "Seat",
+      "units": 943
+    },
+    {
+      "product": "Volkswagen",
+      "units": 935
+    },
+    {
+      "product": "Nissan",
+      "units": 434
+    },
+    {
+      "product": "Dodge",
+      "units": 861
+    }
+  ]
+}, {
+  "month": "Feb",
+  "sales": [
+    {
+      "product": "Ford",
+      "units": 899
+    },
+    {
+      "product": "Seat",
+      "units": 370
+    },
+    {
+      "product": "Volkswagen",
+      "units": 104
+    },
+    {
+      "product": "Nissan",
+      "units": 851
+    },
+    {
+      "product": "Dodge",
+      "units": 453
+    }
+  ]
+}, {
+  "month": "Mar",
+  "sales": [
+    {
+      "product": "Ford",
+      "units": 483
+    },
+    {
+      "product": "Seat",
+      "units": 309
+    },
+    {
+      "product": "Volkswagen",
+      "units": 636
+    },
+    {
+      "product": "Nissan",
+      "units": 969
+    },
+    {
+      "product": "Dodge",
+      "units": 983
+    }
+  ]
+}, {
+  "month": "Abr",
+  "sales": [
+    {
+      "product": "Ford",
+      "units": 494
+    },
+    {
+      "product": "Seat",
+      "units": 870
+    },
+    {
+      "product": "Volkswagen",
+      "units": 143
+    },
+    {
+      "product": "Nissan",
+      "units": 115
+    },
+    {
+      "product": "Dodge",
+      "units": 117
+    }
+  ]
+}, {
+  "month": "May",
+  "sales": [
+    {
+      "product": "Ford",
+      "units": 523
+    },
+    {
+      "product": "Seat",
+      "units": 579
+    },
+    {
+      "product": "Volkswagen",
+      "units": 627
+    },
+    {
+      "product": "Nissan",
+      "units": 736
+    },
+    {
+      "product": "Dodge",
+      "units": 112
+    }
+  ]
+}, {
+  "month": "Jun",
+  "sales": [
+    {
+      "product": "Ford",
+      "units": 710
+    },
+    {
+      "product": "Seat",
+      "units": 951
+    },
+    {
+      "product": "Volkswagen",
+      "units": 245
+    },
+    {
+      "product": "Nissan",
+      "units": 730
+    },
+    {
+      "product": "Dodge",
+      "units": 104
+    }
+  ]
+}, {
+  "month": "Jun",
+  "sales": [
+    {
+      "product": "Ford",
+      "units": 751
+    },
+    {
+      "product": "Seat",
+      "units": 138
+    },
+    {
+      "product": "Volkswagen",
+      "units": 366
+    },
+    {
+      "product": "Nissan",
+      "units": 537
+    },
+    {
+      "product": "Dodge",
+      "units": 190
+    }
+  ]
+}, {
+  "month": "Ago",
+  "sales": [
+    {
+      "product": "Ford",
+      "units": 769
+    },
+    {
+      "product": "Seat",
+      "units": 620
+    },
+    {
+      "product": "Volkswagen",
+      "units": 263
+    },
+    {
+      "product": "Nissan",
+      "units": 372
+    },
+    {
+      "product": "Dodge",
+      "units": 768
+    }
+  ]
+}, {
+  "month": "Sep",
+  "sales": [
+    {
+      "product": "Ford",
+      "units": 141
+    },
+    {
+      "product": "Seat",
+      "units": 278
+    },
+    {
+      "product": "Volkswagen",
+      "units": 829
+    },
+    {
+      "product": "Nissan",
+      "units": 659
+    },
+    {
+      "product": "Dodge",
+      "units": 254
+    }
+  ]
+}, {
+  "month": "Oct",
+  "sales": [
+    {
+      "product": "Ford",
+      "units": 669
+    },
+    {
+      "product": "Seat",
+      "units": 216
+    },
+    {
+      "product": "Volkswagen",
+      "units": 761
+    },
+    {
+      "product": "Nissan",
+      "units": 567
+    },
+    {
+      "product": "Dodge",
+      "units": 262
+    }
+  ]
+}, {
+  "month": "Nov",
+  "sales": [
+    {
+      "product": "Ford",
+      "units": 193
+    },
+    {
+      "product": "Seat",
+      "units": 362
+    },
+    {
+      "product": "Volkswagen",
+      "units": 994
+    },
+    {
+      "product": "Nissan",
+      "units": 985
+    },
+    {
+      "product": "Dodge",
+      "units": 382
+    }
+  ]
+}, {
+  "month": "Dic",
+  "sales": [
+    {
+      "product": "Ford",
+      "units": 279
+    },
+    {
+      "product": "Seat",
+      "units": 439
+    },
+    {
+      "product": "Volkswagen",
+      "units": 949
+    },
+    {
+      "product": "Nissan",
+      "units": 398
+    },
+    {
+      "product": "Dodge",
+      "units": 772
+    }
+  ]
+}]
