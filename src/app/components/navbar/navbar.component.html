@@ -16,6 +16,6 @@
       </li>
     </ul>
     <a class="nav-link login" routerLink="/login" *ngIf="!authManager.getAuthStatus()">Log in</a>
-    <a class="nav-link logout" *ngIf="authManager.getAuthStatus()" (click)="logout()">Log out</a>
+    <a class="nav-link logout" *ngIf="authManager.getAuthStatus()" (click)="authManager.signOut()">Log out</a>
   </div>
 </nav>
