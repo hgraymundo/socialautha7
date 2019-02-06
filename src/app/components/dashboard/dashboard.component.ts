@@ -1,8 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import { Chart } from 'chart.js';
-import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { MatCardModule } from '@angular/material';
-
 
 import SampleJson  from '../../../assets/data/MOCK_DATA_AUTO.json';
 
