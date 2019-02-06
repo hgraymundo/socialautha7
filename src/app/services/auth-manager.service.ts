@@ -20,6 +20,7 @@ export class AuthManagerService {
     this.authService.signIn(FacebookLoginProvider.PROVIDER_ID)
     .then((userData) => {
         this.user = userData;
+        this.router.navigate(['/profile']);
     })
   }
 

@@ -14,9 +14,6 @@ import { PublicComponent } from './components/public/public.component';
 
 import { AuthGuard } from './services/auth-guard.service';
 
-import { HttpClientModule } from '@angular/common/http';
-
-
 let config = new AuthServiceConfig([
   // {
   //   id: GoogleLoginProvider.PROVIDER_ID,
@@ -44,8 +41,7 @@ export function provideConfig() {
   imports: [
     BrowserModule,
     AppRoutingModule,
-    SocialLoginModule,
-    HttpClientModule
+    SocialLoginModule
   ],
   providers: [
     AuthGuard,

@@ -5,7 +5,6 @@ import {
   ActivatedRouteSnapshot,
   RouterStateSnapshot,
   Router } from '@angular/router';
-// import { Observable } from 'rxjs/Observable';
 import { AuthManagerService }      from './auth-manager.service';
 
 @Injectable({
@@ -24,8 +23,6 @@ export class AuthGuard implements CanActivate {
   }
 
   checkLogin(): boolean {
-    // console.log("CHECKLOGIN");
-    // console.log(this.authManager.getAuthStatus());
     if (this.authManager.getAuthStatus()) { return true; }
     this.router.navigate(['/login']);
     return false;
